@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cours\\Informatique\\Projet\\1.3\\P_Rem\u00E9dAppro-AGT\\EasyPasswords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9120FE8-B965-4096-862B-D39DCE20BCCF}|EasyPasswords\\EasyPasswords.csproj|d:\\cours\\informatique\\projet\\1.3\\p_rem\u00E9dappro-agt\\easypasswords\\easypasswords\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9120FE8-B965-4096-862B-D39DCE20BCCF}|EasyPasswords\\EasyPasswords.csproj|solutionrelative:easypasswords\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Cours\\Informatique\\Projet\\1.3\\P_Rem\u00E9dAppro-AGT\\EasyPasswords\\EasyPasswords\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "EasyPasswords\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Cours\\Informatique\\Projet\\1.3\\P_Rem\u00E9dAppro-AGT\\EasyPasswords\\EasyPasswords\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "EasyPasswords\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:21:52.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
